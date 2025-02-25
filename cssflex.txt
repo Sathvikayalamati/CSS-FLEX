@@ -30,5 +30,11 @@ default value is nowrap
 8.flex-basis
 is is used to specify width to the html elements
 ex:flex-basis:30%;
+9.flex-grow
+it is used to specify grow/expand proportion to a particular element
+ex:flex-grow:2;
+10.flex-shrink
+it is used to specify collapse/compression proportion 
+to a particular items
 
 
